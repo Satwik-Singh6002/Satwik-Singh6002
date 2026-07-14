@@ -540,11 +540,11 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 
 <!-- GitHub Stats & Top Languages -->
 <a href="https://github.com/Satwik-Singh6002">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Satwik-Singh6002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satwik-Singh6002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Satwik-Singh6002">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik-Singh6002&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satwik-Singh6002&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </a>
 
 <br/><br/>
@@ -565,7 +565,7 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 
 <!-- GitHub Trophies -->
 <a href="https://github.com/Satwik-Singh6002">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satwik-Singh6002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" width="95%" />
+  <img src="https://github-trophies.vercel.app/?username=Satwik-Singh6002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" width="95%" />
 </a>
 
 <br/><br/>
