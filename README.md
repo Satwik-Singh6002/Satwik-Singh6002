@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&multiline=true&repeat=true&width=900&height=130&lines=%F0%9F%9A%80+Building+Production-Grade+Systems+at+Scale;%E2%9A%A1+Full-Stack+%7C+AI+Engineering+%7C+Cloud+Native;%F0%9F%8C%8D+Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=%F0%9F%9A%80+Building+Production-Grade+Systems+at+Scale;%E2%9A%A1+Full-Stack+%7C+AI+Engineering+%7C+Cloud+Native;%F0%9F%8C%8D+Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
