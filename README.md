@@ -124,7 +124,7 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/>
 <b>LeetCode</b><br/>
-<sub>Problem Solving</sub><br/>
+<sub>150+ problems solved</sub><br/>
 <img src="https://img.shields.io/badge/Active-73daca?style=flat-square" />
 </td>
 <td align="center" width="25%">
@@ -136,13 +136,13 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /><br/>
 <b>CodeChef</b><br/>
-<sub>Competitive Coding</sub><br/>
+<sub>Rating: 1600+</sub><br/>
 <img src="https://img.shields.io/badge/Active-73daca?style=flat-square" />
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /><br/>
 <b>HackerRank</b><br/>
-<sub>Skills Certification</sub><br/>
+<sub>Gold Badge - Problem Solving</sub><br/>
 <img src="https://img.shields.io/badge/Active-73daca?style=flat-square" />
 </td>
 </tr>
@@ -192,7 +192,7 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 <div align="center">
 
 <!-- PROJECT 1: ADHIKAR -->
-<a href="https://github.com/Satwik-Singh6002">
+<a href="https://github.com/Satwik-Singh6002/adhikar">
 <img src="https://img.shields.io/badge/🔥_FLAGSHIP_PROJECT-ADHIKAR-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
 </a>
 </div>
@@ -241,7 +241,7 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 <br/>
 
 <div align="center">
-<a href="https://github.com/Satwik-Singh6002">
+<a href="https://github.com/Satwik-Singh6002/mapster">
 <img src="https://img.shields.io/badge/🗺️_HACKATHON_WINNER-MAPSTER-e0af68?style=for-the-badge&labelColor=1a1b27" />
 </a>
 </div>
