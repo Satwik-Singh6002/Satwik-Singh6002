@@ -556,6 +556,13 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 
 <br/><br/>
 
+<!-- 3D Contribution Graph -->
+<a href="https://github.com/Satwik-Singh6002">
+  <img src="https://raw.githubusercontent.com/Satwik-Singh6002/Satwik-Singh6002/main/profile-3d-contrib/profile-night-view-animate.svg" alt="3D Contribution Graph" width="95%" />
+</a>
+
+<br/><br/>
+
 <!-- Activity Graph -->
 <a href="https://github.com/Satwik-Singh6002">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik-Singh6002&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&custom_title=Satwik's%20Contribution%20Graph" alt="Activity Graph" width="95%" />
