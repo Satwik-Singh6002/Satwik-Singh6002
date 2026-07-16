@@ -598,8 +598,6 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Satwik-Singh6002/Satwik-Singh6002/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> 💡 *To enable the snake animation, set up the [snk GitHub Action](https://github.com/Platane/snk) in your profile repository.*
-
 </div>
 
 <br/>
