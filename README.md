@@ -572,21 +572,21 @@ open_to: Internships, Full-Time Roles, Open Source Collaboration
 
 <!-- Profile Summary Cards -->
 <a href="https://github.com/Satwik-Singh6002">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satwik-Singh6002&theme=tokyonight" alt="Profile Details" width="95%" />
+  <img src="https://raw.githubusercontent.com/Satwik-Singh6002/Satwik-Singh6002/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="95%" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Satwik-Singh6002">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satwik-Singh6002&theme=tokyonight" alt="Repos Per Language" />
+  <img height="160" src="https://raw.githubusercontent.com/Satwik-Singh6002/Satwik-Singh6002/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Satwik-Singh6002">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satwik-Singh6002&theme=tokyonight" alt="Most Commit Language" />
+  <img height="160" src="https://raw.githubusercontent.com/Satwik-Singh6002/Satwik-Singh6002/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Satwik-Singh6002">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satwik-Singh6002&theme=tokyonight" alt="Stats" />
+  <img height="160" src="https://raw.githubusercontent.com/Satwik-Singh6002/Satwik-Singh6002/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 </a>
 
 <br/><br/>
